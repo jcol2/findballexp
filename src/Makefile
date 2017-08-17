@@ -1,6 +1,6 @@
 # Declaration of variables
 CC = g++
-CC_FLAGS = -w -std=c++11 -g -O0 -I../include -I../include/librcsscontroller
+CC_FLAGS = -w -std=c++11 -g -I../include -I../include/librcsscontroller
  
 # File names
 EXEC = findballexp
